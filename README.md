@@ -27,7 +27,5 @@ Results for each candidate are as followed:
 The winner of the election was the following:
 Diana DeGette, who received 73.8% of the vote and 272,892 votes.
 
-## Challenge Overview
-
-## Challenge Summary
-
+## Election Audit Summary
+After running the audit, you can see that this script can easily be used for any future elections. All you would need to do is update the raw data set that the script is looking at, and change in the code what it is looking for, such as the file name. After updating the data set the code is looking for, you should easily be able to use this code to audit any elections in the future.
